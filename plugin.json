@@ -1,0 +1,110 @@
+{
+  "name": "Animal Jam animation commands",
+  "version": "1.0.0",
+  "description": "Inspired by Sxip's humongous command and tabitha♡'s animation numbers. All packaged and organized for your convience!",
+  "author": "Elyxr",
+  "main": "index.js",
+  "type": "game",
+  "commands": [
+    {
+          "name": "Mini",
+          "description": "small character model."
+    }
+    ,{
+          "name": "Sit N",
+         "description": "sits north."
+    }
+    ,{
+         "name": "Sit E",
+         "description": "sits east."
+    }
+    ,{
+          "name": "Sit S",
+          "description": "perfect for dogbowls."
+    }
+    ,{
+          "name": "Sit W",
+          "description": "sits west."
+    }
+    ,{
+          "name": "Run E",
+          "description": "runs east."
+    }
+    ,{
+          "name": "Run SE",
+          "description": "runs southeast."
+    }
+    ,{
+          "name": "Run S",
+          "description": "runs south."
+    }
+    ,{
+          "name": "Sky High jump",
+          "description": "plays the Sky High jumping animation."
+    }
+    ,{
+          "name": "Sky High leap",
+          "description": "plays the Sky High leaping animation. Can't change character models."
+    }
+    ,{
+          "name": "Sky High hop",
+          "description": "plays the Sky High hopping animation. Looks like your animal is reaching."
+      
+    } 
+    ,{
+          "name": "Sky High Landing",
+          "description": "plays the Sky High landing animation."
+    }
+    ,{
+          "name": "Sky High crouch",
+          "description": "plays the Sky High crouching animation."
+    }
+    ,{
+          "name": "Hop NE",
+          "description": "hopps northeast"
+    }
+    ,{
+          "name": "Swirl",
+          "description": "swirl on land !!HYBRID ANIMAL REQ.!!"
+    }
+    ,{
+          "name": "Seasaw",
+          "description": "play on an invisible seasaw !!HYBRID ANIMAL REQ.!!"
+    }
+    ,{
+          "name": "Swim up",
+          "description": "swim up, pretty self explanitory- !!HYBRID ANIMAL REQ.!!"
+    } 
+    ,{
+          "name": "Swim down",
+          "description": "swim down- exactly like swimming up, but down- what were you expecting? !!HYBRID ANIMAL REQ.!!"
+    }
+    ,{
+          "name": "Underwater dance",
+          "description": "plays the underwater dance animation anywhere. !!HYBRID ANIMAL REQ.!!"
+    }
+    ,{
+          "name": "Underwater play",
+          "description": "plays the underwater play animation anywhere. !!HYBRID ANIMAL REQ.!!"
+      
+    }   
+    ,{
+          "name": "Underwater dive",
+          "description": "Dive into thin air. !!HYBRID ANIMAL REQ.!!"
+    }
+    ,{
+          "name": "Swim diagonal",
+          "description": "swimming, but sideways. !!HYBRID ANIMAL REQ.!!"
+      
+    }
+    ,{
+          "name": "Swim E",
+          "description": "swim east. !!HYBRID ANIMAL REQ.!!"
+      
+    }
+        ,{
+          "name": "Underwater pose",
+          "description": "pose anywhere! !!HYBRID ANIMAL REQ.!!"
+    }
+  ]
+}
